@@ -5,9 +5,10 @@ This project predicts student academic performance using machine learning. It ai
 
 ## 📂 Table of Contents
 - [Overview](#-overview)
+- [Problem Statement](#-problem-statement)
 - [Technologies Used](#-technologies-used)
 - [Dataset](#-dataset)
-- [Problem Statement](#-problem-statement)
+
 
 ## Problem Statement
 The task is to predict a student’s final grades based on various factors like demographic 
