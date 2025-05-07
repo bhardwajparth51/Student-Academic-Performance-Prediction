@@ -7,13 +7,13 @@ This project predicts student academic performance using machine learning. It ai
 - [Overview](#-overview)
 - [Technologies Used](#-technologies-used)
 - [Dataset](#-dataset)
-- [Installation](#-installation)
-- [Usage](#-usage)
-- [Model Overview](#-model-overview)
-- [Results](#-results)
-- [Future Work](#-future-work)
-- [Contributing](#-contributing)
-- [License](#-license)
+- [Problem Statement](#-problem-statement)
+
+## Problem Statement
+The task is to predict a student’s final grades based on various factors like demographic 
+details, family background, and school-related features. The objective is to build a 
+model that can accurately predict a student’s academic performance based on these 
+inputs.
 
 ## 🧠 Technologies Used
 - Python 3.x  
@@ -36,9 +36,3 @@ The dataset includes features such as:
 | 1          | 16  | Female | 5           | 85             | 75             | 45000         | High School      |
 | 2          | 17  | Male   | 3           | 90             | 80             | 55000         | Bachelor's       |
 
-## ⚙️ Installation
-
-```bash
-git clone https://github.com/yourusername/student-performance-prediction.git
-cd student-performance-prediction
-pip install -r requirements.txt
